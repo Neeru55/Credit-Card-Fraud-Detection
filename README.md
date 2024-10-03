@@ -46,7 +46,7 @@ The ROC curves for both Decision Tree and XGBoost models were plotted, illustrat
 ## Results
 | Model              | Accuracy | Precision | AUC      |
 |--------------------|----------|-----------|----------|
-| Decision Tree      | [ 0.999889] | [0.999778]   | [0.999888] |
+| Random Forest      | [ 0.999889] | [0.999778]   | [0.999888] |
 | XGBoost            | [0.999801] | [0.999602]   | [0.999800] |
 
 ## Conclusion
